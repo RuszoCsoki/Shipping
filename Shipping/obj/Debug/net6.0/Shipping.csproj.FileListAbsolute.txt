@@ -1,0 +1,15 @@
+C:\Users\monic\source\repos\Shipping\Shipping\bin\Debug\net6.0\Shipping.exe
+C:\Users\monic\source\repos\Shipping\Shipping\bin\Debug\net6.0\Shipping.deps.json
+C:\Users\monic\source\repos\Shipping\Shipping\bin\Debug\net6.0\Shipping.runtimeconfig.json
+C:\Users\monic\source\repos\Shipping\Shipping\bin\Debug\net6.0\Shipping.dll
+C:\Users\monic\source\repos\Shipping\Shipping\bin\Debug\net6.0\Shipping.pdb
+C:\Users\monic\source\repos\Shipping\Shipping\obj\Debug\net6.0\Shipping.csproj.AssemblyReference.cache
+C:\Users\monic\source\repos\Shipping\Shipping\obj\Debug\net6.0\Shipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monic\source\repos\Shipping\Shipping\obj\Debug\net6.0\Shipping.AssemblyInfoInputs.cache
+C:\Users\monic\source\repos\Shipping\Shipping\obj\Debug\net6.0\Shipping.AssemblyInfo.cs
+C:\Users\monic\source\repos\Shipping\Shipping\obj\Debug\net6.0\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\monic\source\repos\Shipping\Shipping\obj\Debug\net6.0\Shipping.dll
+C:\Users\monic\source\repos\Shipping\Shipping\obj\Debug\net6.0\refint\Shipping.dll
+C:\Users\monic\source\repos\Shipping\Shipping\obj\Debug\net6.0\Shipping.pdb
+C:\Users\monic\source\repos\Shipping\Shipping\obj\Debug\net6.0\Shipping.genruntimeconfig.cache
+C:\Users\monic\source\repos\Shipping\Shipping\obj\Debug\net6.0\ref\Shipping.dll
